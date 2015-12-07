@@ -8,3 +8,4 @@ do
     rm $file
 done
 
+rm vvv.sh.vvv
